@@ -301,7 +301,6 @@
 						<goals>
 							<goal>integration-test</goal>
 							<goal>verify</goal>
-							<goal>report</goal>
 						</goals>
 					</execution>
 				</executions>
